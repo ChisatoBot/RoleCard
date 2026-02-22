@@ -1,18 +1,18 @@
 [
   {
     "id": "role_001",
-    "avatar": "https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/001_chisato/avator.png",
+    "avatar": "https://ghfast.com/https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/001_chisato/avator.png",
     "nickname": "锦木千束",
     "description": "Lycoris Recoil 的主角之一，性格开朗活泼，喜欢帮助他人，是咖啡厅LycoReco的看板娘。",
-    "bgUrl": "https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/001_chisato/bg.png",
-    "fullBgUrl": "https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/001_chisato/full_bg.png"
+    "bgUrl": "https://ghfast.com/https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/001_chisato/bg.png",
+    "fullBgUrl": "https://ghfast.com/https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/001_chisato/full_bg.png"
   },
   {
     "id": "role_003",
-    "avatar": "https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/003_miku/avator.jpg",
+    "avatar": "https://ghfast.com/https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/003_miku/avator.jpg",
     "nickname": "初音未来",
     "description": "虚拟歌手，拥有标志性的蓝绿色双马尾，歌声甜美动人，在全世界拥有大量粉丝。",
-    "bgUrl": "https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/003_miku/bg.jpg",
-    "fullBgUrl": "https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/003_miku/full_bg.jpg"
+    "bgUrl": "https://ghfast.com/https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/003_miku/bg.jpg",
+    "fullBgUrl": "https://ghfast.com/https://raw.githubusercontent.com/ChisatoBot/RoleCard/refs/heads/main/assets/003_miku/full_bg.jpg"
   }
 ]
